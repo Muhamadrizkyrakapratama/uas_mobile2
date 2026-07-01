@@ -1,0 +1,15 @@
+Task Name,Description,Status,Priority,Start Date,Due Date
+Rename App to SimPay,"Rename references from DompetGweh to SimPay across configuration files (pubspec.yaml, Android, iOS, Windows, Web)",Closed,High,2026-07-01,2026-07-01
+Update Developer Profile,Change developer name in about tab to Muhammad Rizky Raka Pratama,Closed,Normal,2026-07-01,2026-07-01
+Update Brand Logo & App Icon,Generate new logo asset and run flutter_launcher_icons to rebuild Android/iOS app icons,Closed,High,2026-07-01,2026-07-01
+Implement Local Data Management,Setup local SQLite database or shared preferences for offline transactions,Closed,High,2026-06-20,2026-06-25
+Design Dashboard View,"Create summary cards for balance, total income, and total expenses with dynamic charts",Closed,High,2026-06-25,2026-06-28
+Build Transaction History,Create list view of transactions with category filters and search options,Closed,High,2026-06-26,2026-06-29
+Develop Add/Edit Transaction Form,"Create transaction input validation for category, amount, notes, and date selection",Closed,High,2026-06-27,2026-06-29
+Build JSON/CSV Backup Tools,Add import/export backups functionality in History tab to share files,Closed,High,2026-06-29,2026-06-30
+Implement Monthly Financial Wrapped,Create Spotify-wrapped style summary of monthly spending habits and category personas,Closed,Normal,2026-06-28,2026-06-30
+Create Printable PDF Reports,Generate dynamic printable PDF invoice/statement layout from monthly transactions,Closed,High,2026-06-29,2026-07-01
+Write Automated Unit Tests,Write Flutter widget tests to check app renders correctly and brand title is found,Closed,Normal,2026-07-01,2026-07-01
+Compile Android Release Build (APK),Run flutter build apk to generate the production release bundle,Open,High,2026-07-02,2026-07-03
+Prepare iOS IPA Build Setup,Setup Apple Developer credentials or cloud build servers (Codemagic/GitHub Actions) to compile IPA,Open,Normal,2026-07-02,2026-07-04
+Final Review with Lecturer,"Demonstrate final SimPay features, automated test logs, and project board to the lecturer",Open,High,2026-07-04,2026-07-05
