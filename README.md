@@ -18,9 +18,9 @@
 
 ## Apaan sih ini?
 
-**SimPay** adalah aplikasi catat keuangan pribadi buat lo yang pengen tau duit lo lari kemana — tanpa ribet, tanpa internet, dan tanpa drama. Murni offline, ringan, dan tampilannya nggak bikin mata sakit.
+**SimPay** adalah aplikasi catat keuangan pribadi buat kalian yang pengen tau duit kalian lari kemana — tanpa ribet, tanpa internet, dan tanpa drama. Murni offline, ringan, dan tampilannya nggak bikin mata sakit.
 
-Cocok banget buat lo yang sering ngerasa *"kok duit gue abis ya padahal baru gajian"* 💀
+Cocok banget buat lo yang sering ngerasa *"kok duit saya abis ya padahal baru gajian"* 💀
 
 ---
 
@@ -30,13 +30,13 @@ Cocok banget buat lo yang sering ngerasa *"kok duit gue abis ya padahal baru gaj
 Tinggal input nominal, pilih kategori, kasih catatan. Selesai. Simpel banget.
 
 **🎯 Budget Bulanan & Per Kategori**
-Set batas pengeluaran lo biar nggak jebol. Ada indikator warna biar lo langsung tau statusnya — hijau aman, merah bahaya.
+Set batas pengeluaran kalian biar nggak jebol. Ada indikator warna biar kalian langsung tau statusnya — hijau aman, merah bahaya.
 
 **📊 Grafik & Diagram**
-Liat distribusi pengeluaran lo lewat donat chart dan grafik tren bulanan. Biar lo ngerasa kayak orang dewasa yang dewasa 🧑‍💼
+Liat distribusi pengeluaran kalian lewat donat chart dan grafik tren bulanan. Biar kalian ngerasa kayak orang dewasa 🧑‍💼
 
 **🎁 Financial Wrapped**
-Ala-ala Spotify Wrapped tapi versi dompet lo. Muncul tiap awal bulan, recap keuangan lo bulan lalu secara dramatis plus kasih tau persona belanja lo (*The Foodie* 🍜, *Subscription Addict* 📱, dll.). Bisa di-share juga!
+Ala-ala Spotify Wrapped tapi versi dompet kalian. Muncul tiap awal bulan, recap keuangan kalian bulan lalu secara dramatis plus kasih tau persona belanja anda (*The Foodie* 🍜, *Subscription Addict* 📱, dll.). Bisa di-share juga!
 
 **👁️ Mode Samaran**
 Sembunyiin semua nominal jadi Rp ••••••  biar nggak ketauan pas lagi di depan orang. Privacy is everything 🤫
@@ -54,7 +54,7 @@ Butuh bukti pengeluaran? Langsung cetak jadi PDF dari HP. Profesional banget pad
 
 ### 👉 [Download SimPay v1.2.0](https://i.diawi.com/7uxTWa)
 
-*Buka link di atas dari browser HP Android lo, atau scan QR Code di halaman tersebut buat langsung install.*
+*Buka link di atas dari browser HP Android kalian, atau scan QR Code di halaman tersebut buat langsung install.*
 
 ---
 
@@ -62,14 +62,14 @@ Butuh bukti pengeluaran? Langsung cetak jadi PDF dari HP. Profesional banget pad
 
 Sayangnya belum ada link install langsung buat iOS, karena build IPA butuh **Mac + Xcode** — dan itu nggak bisa dari Windows 😭
 
-Tapi kalau lo pengen tetap nyoba di iPhone, ini caranya:
+Tapi kalau kalian pengen tetap nyoba di iPhone, ini caranya:
 
-**1. Lo punya Mac sendiri / punya temen yang punya Mac:**
+**1. kalian punya Mac sendiri / punya temen yang punya Mac:**
 ```bash
 # Clone / copy project ini ke Mac, lalu jalankan:
 flutter build ipa
 ```
-Terus install via **AltStore** atau **Xcode** ke iPhone lo.
+Terus install via **AltStore** atau **Xcode** ke iPhone kalian.
 
 **2. Pakai layanan cloud build (gratis):**
 - Upload project ke **[Codemagic](https://codemagic.io)** atau **GitHub Actions** dengan Mac runner
@@ -78,7 +78,7 @@ Terus install via **AltStore** atau **Xcode** ke iPhone lo.
 **3. Cara paling gampang — pakai TestFlight:**
 Kalau ada yang mau distribute lewat Apple TestFlight, butuh Apple Developer Account ($99/tahun). Agak ribet, tapi ini cara resminya.
 
-> **TLDR**: Kode-nya siap iOS, tapi build-nya butuh Mac. Kalau lo pakai Android, langsung aja download link di atas! 👆
+> **TLDR**: Kode-nya siap iOS, tapi build-nya butuh Mac. Kalau kalian pakai Android, langsung aja download link di atas! 👆
 
 ---
 
